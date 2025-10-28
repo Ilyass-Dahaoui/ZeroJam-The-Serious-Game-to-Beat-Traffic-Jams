@@ -31,11 +31,6 @@ Traffic congestion is a growing problem in urban areas, causing delays, pollutio
 - Educational feedback on player choices  
 - Scoring system based on traffic reduction efficiency  
 
-## Technologies Used
-
-- Programming language: [Specify your language, e.g., Python, JavaScript]  
-- Game engine or framework: [Unity, Godot, Phaser, etc.]  
-- Additional libraries or tools: [List any libraries or tools]  
 
 ## Installation
 
