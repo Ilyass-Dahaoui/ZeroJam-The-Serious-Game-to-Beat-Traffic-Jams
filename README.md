@@ -52,7 +52,7 @@ cd ZeroJam-The-Serious-Game-to-Beat-Traffic-Jams
 - Check the scoring and feedback to understand your impact on traffic reduction.
  ## Contributors
  
--Ilyas DAHOUI
+-Ilyas DAHAOUI
 
 -Oussama HAJJI
 
