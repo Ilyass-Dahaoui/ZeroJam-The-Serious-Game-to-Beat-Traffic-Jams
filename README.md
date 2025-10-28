@@ -7,7 +7,6 @@ ZeroJam is a serious game designed to raise awareness about traffic congestion a
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Game Features](#game-features)
-- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributors](#contributors)
