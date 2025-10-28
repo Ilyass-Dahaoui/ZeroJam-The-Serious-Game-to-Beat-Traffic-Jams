@@ -66,6 +66,8 @@ cd ZeroJam-The-Serious-Game-to-Beat-Traffic-Jams
 
 -Mouâd FEKKAK
 
+-El Askari Aymane
+
 -Bilal El HACHIMI
 ## License
 This project is licensed under the [MIT License](LICENSE) – see the LICENSE file for details.
