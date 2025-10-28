@@ -59,7 +59,14 @@ cd ZeroJam-The-Serious-Game-to-Beat-Traffic-Jams
  ## Contributors
  
 -Ilyas DAHOUI
+
 -Oussama HAJJI
+
 -Salwa El HIZAZ
+
 -Mouâd FEKKAK
- Bilal El HACHIMI
+
+-Bilal El HACHIMI
+## License
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE file for details.
+
